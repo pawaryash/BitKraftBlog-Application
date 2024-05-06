@@ -1,4 +1,4 @@
-# Blog-Application
+# BitKraft Blogs
 This blog application supports CRUD Operations.
 
 Features: 
